@@ -173,7 +173,7 @@ Confirm the following in the current documentation:
 
 ## Links
 
-- [CometAPI model page](https://www.cometapi.com/models/google/gemini-4-argon/)
+- [CometAPI model page](https://www.cometapi.com/models/google/gemini-4-argon/?utm_source=google&utm_medium=Github&utm_campaign=bom)
 - [CometAPI documentation](https://apidoc.cometapi.com)
 
 ## License
